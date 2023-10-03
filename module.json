@@ -44,7 +44,7 @@
       "path": "lang/ko.json"
     }
   ],
-  "url": "https://github.com/grandseiken/foundryvtt-multilevel-tokens",
-  "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json",
-  "download": "https://github.com/grandseiken/foundryvtt-multilevel-tokens/archive/v1.6.0.zip"
+  "url": "https://github.com/Quintol/foundryvtt-multilevel-tokens",
+  "manifest": "https://raw.githubusercontent.com/Quintol/foundryvtt-multilevel-tokens/master/module.json",
+  "download": "https://github.com/Quintol/foundryvtt-multilevel-tokens/archive/v1.6.0.zip"
 }
